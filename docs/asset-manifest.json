@@ -1,0 +1,362 @@
+[
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "CloverStare.png",
+    "path": "/assets/clover/cutouts/clover-staring.png",
+    "bytes": 2539943
+  },
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "SunnyStare.png",
+    "path": "/assets/photos/birds/cutouts/sunny-staring.png",
+    "bytes": 2132522
+  },
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "CloverChomp.png",
+    "path": "/assets/clover/cutouts/clover-chomping.png",
+    "bytes": 2721236
+  },
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "CloverBite.png",
+    "path": "/assets/clover/cutouts/clover-biting.png",
+    "bytes": 2884847
+  },
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "CloverQueen.png",
+    "path": "/assets/clover/cutouts/clover-queen.png",
+    "bytes": 2014676
+  },
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "CloverNomGrape.png",
+    "path": "/assets/clover/cutouts/clover-eating-grape.png",
+    "bytes": 1804008
+  },
+  {
+    "sourceZip": "sophiamaidev Birds.zip",
+    "sourceName": "CloverHoldGrape.png",
+    "path": "/assets/clover/cutouts/clover-holding-grape.png",
+    "bytes": 2579738
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaJump.png",
+    "path": "/assets/personal/cutouts/poses/sophia-jumping.png",
+    "bytes": 662704
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaNotJump.png",
+    "path": "/assets/personal/cutouts/poses/sophia-standing.png",
+    "bytes": 703646
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaSnowSit.png",
+    "path": "/assets/personal/cutouts/snow/sophia-sitting-in-snow.png",
+    "bytes": 528002
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaFlower.png",
+    "path": "/assets/personal/cutouts/flowers/sophia-with-flowers.png",
+    "bytes": 992048
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaMinecraftPig.png",
+    "path": "/assets/personal/cutouts/minecraft/sophia-with-minecraft-pig.png",
+    "bytes": 687546
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaMtRainierStare.png",
+    "path": "/assets/personal/cutouts/mount-rainier/sophia-looking-at-mount-rainier.png",
+    "bytes": 1391064
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaYaleDog.png",
+    "path": "/assets/personal/cutouts/yale/sophia-with-yale-dog.png",
+    "bytes": 654115
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaIceberg.png",
+    "path": "/assets/personal/cutouts/iceberg/sophia-with-iceberg.png",
+    "bytes": 418308
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaRacing.png",
+    "path": "/assets/personal/cutouts/racing/sophia-racing.png",
+    "bytes": 815292
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaBainbridgeTroll.png",
+    "path": "/assets/personal/cutouts/bainbridge/sophia-with-bainbridge-troll.png",
+    "bytes": 981449
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaHatInBainbridge.png",
+    "path": "/assets/personal/cutouts/bainbridge/sophia-wearing-hat-in-bainbridge.png",
+    "bytes": 750587
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaLake22Stare.png",
+    "path": "/assets/personal/cutouts/lake-22/sophia-looking-at-lake-22.png",
+    "bytes": 2041580
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaLake22StareWithTrees.png",
+    "path": "/assets/personal/cutouts/lake-22/sophia-at-lake-22-with-trees.png",
+    "bytes": 1378460
+  },
+  {
+    "sourceZip": "sophiamaidev Sophia.zip",
+    "sourceName": "SophiaLake22LookBack.png",
+    "path": "/assets/personal/cutouts/lake-22/sophia-looking-back-at-lake-22.png",
+    "bytes": 1785358
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "1.png",
+    "path": "/assets/elements/pastel-doodle-flowers.png",
+    "bytes": 77928
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "2.png",
+    "path": "/assets/elements/crumpled-paper-stars.png",
+    "bytes": 1559592
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "3.png",
+    "path": "/assets/elements/paper-bows.png",
+    "bytes": 876070
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "4.png",
+    "path": "/assets/elements/scribbled-paper-marks.png",
+    "bytes": 1906320
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "5.png",
+    "path": "/assets/elements/gingham-and-floral-tape.png",
+    "bytes": 3891770
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "6.png",
+    "path": "/assets/elements/painted-tulips.png",
+    "bytes": 1445307
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "7.png",
+    "path": "/assets/elements/heart-butterfly-doodle.png",
+    "bytes": 1933161
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "8.png",
+    "path": "/assets/elements/yellow-striped-stars.png",
+    "bytes": 982315
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "9.png",
+    "path": "/assets/elements/blue-and-pink-stars.png",
+    "bytes": 1918874
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "10.png",
+    "path": "/assets/elements/paper-airplane-doodle.png",
+    "bytes": 69249
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "11.png",
+    "path": "/assets/elements/pink-camera.png",
+    "bytes": 709434
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "12.png",
+    "path": "/assets/elements/paper-exclamation-marks.png",
+    "bytes": 1870695
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "13.png",
+    "path": "/assets/elements/party-cat.png",
+    "bytes": 472378
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "14.png",
+    "path": "/assets/elements/printed-paper-corner.png",
+    "bytes": 1300137
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "15.png",
+    "path": "/assets/elements/paper-butterfly.png",
+    "bytes": 205422
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "16.png",
+    "path": "/assets/elements/pink-pressed-flower.png",
+    "bytes": 2829277
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "17.png",
+    "path": "/assets/elements/pink-flower-sprig.png",
+    "bytes": 1592124
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "18.png",
+    "path": "/assets/elements/blue-pressed-flower.png",
+    "bytes": 3082067
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "19.png",
+    "path": "/assets/elements/text-paper-star.png",
+    "bytes": 1028331
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "20.png",
+    "path": "/assets/elements/torn-grid-paper.png",
+    "bytes": 3424337
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "21.png",
+    "path": "/assets/elements/layered-grid-paper.png",
+    "bytes": 3423505
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "22.png",
+    "path": "/assets/elements/handwritten-paper-corner.png",
+    "bytes": 1443119
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "23.png",
+    "path": "/assets/elements/blue-flower-drawing.png",
+    "bytes": 277796
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "24.png",
+    "path": "/assets/elements/pink-flower-drawing.png",
+    "bytes": 417257
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "25.png",
+    "path": "/assets/elements/yellow-doodle-sparkles.png",
+    "bytes": 66489
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "26.png",
+    "path": "/assets/elements/paper-ribbon-bow.png",
+    "bytes": 153874
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "27.png",
+    "path": "/assets/elements/blank-paper-label.png",
+    "bytes": 1935847
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "28.png",
+    "path": "/assets/elements/paper-down-arrows.png",
+    "bytes": 82180
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "29.png",
+    "path": "/assets/elements/curved-paper-arrow.png",
+    "bytes": 91458
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "30.png",
+    "path": "/assets/elements/diagonal-paper-arrow.png",
+    "bytes": 110041
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "31.png",
+    "path": "/assets/elements/right-paper-arrow.png",
+    "bytes": 61975
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "32.png",
+    "path": "/assets/elements/paper-bear.png",
+    "bytes": 3390290
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "33.png",
+    "path": "/assets/elements/boat-and-waves-collage.png",
+    "bytes": 1660103
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "34.png",
+    "path": "/assets/elements/vintage-paper-corner.png",
+    "bytes": 1280814
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "35.png",
+    "path": "/assets/elements/flower-paper-collage.png",
+    "bytes": 2121658
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "36.png",
+    "path": "/assets/elements/clipped-lined-paper.png",
+    "bytes": 2238673
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "37.png",
+    "path": "/assets/elements/green-taped-notepaper.png",
+    "bytes": 131544
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "38.png",
+    "path": "/assets/elements/taped-grid-paper.png",
+    "bytes": 138485
+  },
+  {
+    "sourceZip": "sophiamaidev Elements.zip",
+    "sourceName": "39.png",
+    "path": "/assets/elements/yellow-painted-flower.png",
+    "bytes": 619306
+  }
+]
