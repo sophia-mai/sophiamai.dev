@@ -1,6 +1,6 @@
 export type ArchiveItem = {
   id: string; type: 'photo' | 'doodle' | 'note' | 'cutout'; image?: string; alt?: string;
-  title: string; frontCaption?: string; date?: string; context?: string; description: string;
+  title: string; href?: string; frontCaption?: string; date?: string; context?: string; description: string;
   rotation: number; x: number; y: number; width: number; mobileOrder: number;
   paperMask?: boolean | string; backNoteTop?: number; interaction: 'flip'; frontText?: string; crop?: 'cat' | 'person';
 };
@@ -31,6 +31,6 @@ export const collected: ArchiveItem[] = [
 ];
 export const projects: ArchiveItem[] = [
   {id:'this-site',type:'note',title:'this little website',frontText:'01 / this little website\n\nA place for things\nI don’t want to lose.\n\n↗ always a work in progress',context:'a digital sketchbook',description:'Built with Next.js and TypeScript. A collection that can keep growing, one object at a time.',rotation:-4,x:12,y:100,width:360,mobileOrder:1,interaction:'flip'},
-  {id:'next-project',type:'note',title:'room for something new',frontText:'something else goes here…\n\n[ future project / artwork ]',description:'Placeholder: replace this entry with a real project, artwork, experiment, or unfinished idea.',rotation:6,x:60,y:220,width:300,mobileOrder:2,interaction:'flip'},
+  {id:'assignment-to-calendar',type:'note',title:'Assignment to Calendar',href:'https://github.com/sophia-mai/assignment-to-calendar',frontText:'02 / assignment\nto calendar\n\n↗ view on GitHub',description:'Assignment to Calendar — a project by Sophia Mai.',rotation:6,x:60,y:220,width:300,mobileOrder:2,interaction:'flip'},
 ];
 export const discovery: ArchiveItem = {id:'discovery',type:'note',title:'you found it :)',frontText:'a tiny secret\n\n✳',description:'Most things around here have another side. Try inspecting some of the things you passed on your way down.',rotation:-6,x:0,y:0,width:240,mobileOrder:1,interaction:'flip'};

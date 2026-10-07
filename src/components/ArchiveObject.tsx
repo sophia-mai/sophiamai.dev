@@ -17,6 +17,7 @@ export default function ArchiveObject({item, inspect}: {item: ArchiveItem; inspe
   const lastTap = useRef(0);
   const touchLayout = isTouchLayout;
   function reveal(trigger: HTMLElement) { if (touchLayout()) inspect(item,trigger); else setFlipped(v=>!v); }
+  if (item.href) return <a className="archive-object project-link" href={item.href} target="_blank" rel="noopener noreferrer" aria-label={`${item.title} on GitHub (opens in a new tab)`} style={{'--rotation':`${item.rotation}deg`,'--x':`${item.x}%`,'--y':`${item.y}px`,'--width':`${item.width}px`,'--order':item.mobileOrder,transform:`rotate(${item.rotation}deg)`} as CSSProperties}><ObjectFace item={item}/></a>;
   return <button className={`archive-object ${item.type==='cutout'?'cutout-object':''} ${item.paperMask?'shaped-paper':''} ${flipped?'is-flipped':''}`} style={{'--rotation':`${item.rotation}deg`,'--x':`${item.x}%`,'--y':`${item.y}px`,'--width':`${item.width}px`,'--order':item.mobileOrder,'--paper-mask':item.paperMask?`url("${typeof item.paperMask === 'string' ? item.paperMask : item.image}")`:undefined,'--back-note-top':item.backNoteTop?`${item.backNoteTop}%`:undefined,zIndex:layer,transform:`translate(${offset.x}px, ${offset.y}px) rotate(${item.rotation}deg)`} as CSSProperties}
     aria-label={`${item.title}. Press Enter to reveal its story.`} aria-pressed={flipped}
     {...pointerHandlers}
